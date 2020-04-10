@@ -1,0 +1,7 @@
+base   cphcustom
+author Sam
+email  sam@takuydev.com
+date   2020-04-10
+name   custom plugins
+desc   things
+url    none
