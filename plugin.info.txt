@@ -1,6 +1,6 @@
 base   cphcustom
 author Sam
-email  sam@takuydev.com
+email  sam@takodev.com
 date   2020-04-10
 name   custom plugins
 desc   things
